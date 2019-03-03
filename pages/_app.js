@@ -20,7 +20,7 @@ class MyApp extends App {
 <div className="bg-grey-light container mx-auto px-4 items-center">
 <nav className="font-sans bg-grey-light text-center flex justify-between my-4 mx-auto container overflow-hidden items-center">
   <div className="flex items-center">
-    <a href="/" className="mr-4 w-32">
+    <a href="https://bimap-system.now.sh" className="mr-4 w-32">
       <img src="https://cdn-images-1.medium.com/letterbox/192/72/50/50/1*gJy5xloukmnE1RrUaokaZw.png" className="w-full" alt="logo"/>
     </a>
     <input type="search" placeholder="Search" className="text-sm transition focus:outline-0 border border-transparent focus:bg-white focus:border-grey-light placeholder-grey-darkest rounded bg-grey-lighter py-1 px-2 pl-10 appearance-none leading-normal ds-input">
