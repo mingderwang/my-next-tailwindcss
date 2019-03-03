@@ -1,12 +1,6 @@
 @tailwind preflight;
 @tailwind utilities;
 /* Your custom CSS here */
-body {
-  @apply bg-grey-light p-12;
-}
-div {
-  @apply p-4 shadow rounded bg-white;
-}
 h1 {
   @apply text-purple leading-normal;
 }
